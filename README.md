@@ -32,10 +32,10 @@ TRD is an open source crypto-currency focused on fast private transactions using
 After Downloading wallet, click Tools-->Open Wallet Configuration File and add the followings lines and save it.
 Close the wallet and restart it.
 
-addnode=174.138.33.59 
-addnode=167.99.15.239 
-addnode=167.99.148.227 
-addnode=67.205.179.204
+addnode=174.138.33.59 <br> 
+addnode=167.99.15.239 <br>
+addnode=167.99.148.227 <br>
+addnode=67.205.179.204 <br>
 |Nodes  |Ip Address   |
 |------ |-------------|
 |   1   |174.138.33.59|
