@@ -28,11 +28,13 @@ TRD is an open source crypto-currency focused on fast private transactions using
 |Phase 0|	0-100000    |5 TRD   |75% (3.75 TRD) |25% (1.25 TRD) |
 
 ## Nodes Information
-#In Windows Wallet: 
-After Downloading wallet, click Tools-->Open Wallet Configuration File and add the followings lines 
+# In Windows Wallet: 
+After Downloading wallet, click Tools-->Open Wallet Configuration File and add the followings lines and save it.
 
 addnode=174.138.33.59
-
+addnode=167.99.15.239
+addnode=167.99.148.227
+addnode=67.205.179.204
 |Nodes  |Ip Address   |
 |------ |-------------|
 |   1   |174.138.33.59|
