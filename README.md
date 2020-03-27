@@ -26,3 +26,9 @@ TRD is an open source crypto-currency focused on fast private transactions using
 |Phase  |Block Height |Reward	 |Masternodes    | Stakers      |
 |------ |-------------|--------|---------------|--------------|
 |Phase 0|	0-100000    |5 TRD   |75% (3.75 TRD) |25% (1.25 TRD) |
+
+## Nodes Information
+|Nodes  |Ip Address   |
+|------ |-------------|
+|   1   |174.138.33.59|
+
